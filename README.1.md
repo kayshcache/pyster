@@ -1,5 +1,6 @@
-# Pyster is an App for Generating Test
-Command line application for generating testing files for python modules
+# Pyster: Unit Test Creator
+## Command line app for generating unit test files
+Command line application for generating unit test files for your own python modules
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTAzNTg5MjJdfQ==
+eyJoaXN0b3J5IjpbODA1ODUwOTg4XX0=
 -->
